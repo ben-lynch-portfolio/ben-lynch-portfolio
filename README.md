@@ -1,26 +1,45 @@
 # Ben Lynch
 
-> Sales operator who builds AI. APAC, remote-first.
+> Sales operations leader. I use AI and build SaaS systems to optimise sales output and revenue.
 
-## Now
-- Head of Sales / CS / RevOps / GTM Ops candidate for senior remote roles across APAC, UK, EU
-- Building **Bob** — a personal AI operator stack on Claude + Cowork + MCP
-- Shipping at [ben-lynch.com](https://ben-lynch.com)
+I have spent 15 years running commercial sales floors across APAC. These days I build the
+tooling that runs them: AI operators, live performance dashboards, and rep-enablement
+systems that lift sales-per-hour, cut cancellations, and take the manual load off a sales org.
 
-## Built
-- **D2MS retention turnaround** — APAC SaaS, retention up, churn down
-- **BMF rollout** — full GTM and CS function from zero
-- **deVere** — $887K in closed revenue
-- **Bob** — personal AI operator: daily brief, outbound, CRM hygiene, deal-risk flagging, script evolution
+The work below is live and in use. Source is private — these are products, not open-source projects.
 
-## Stack
-Claude · Cowork · MCP · Next.js · Tailwind · Supabase · Stripe · Cal.com · Gmail/Calendar connectors · Hermes · Groq
+## Selected work
+
+### BOB — AI operations assistant
+A personal AI operator for a sales leader. Runs the daily brief, drafts and sequences outbound,
+keeps the CRM clean, flags deals at risk, and evolves call scripts from real outcomes. Multi-agent,
+voice-enabled, reachable from desktop and phone.
+**Solves:** the operational overhead that eats a sales leader's day, so the human time goes to coaching and closing.
+[See it in action → ben-lynch.com](https://ben-lynch.com)
+
+### Sales Ops Command
+A real-time command center for a sales floor. Live leaderboard, per-rep performance, coaching
+signals, and retention-risk alerts in one screen.
+**Solves:** managers flying blind between weekly reports — surfaces who needs help, on what, right now.
+[Live → sale-ops-command.netlify.app](https://sale-ops-command.netlify.app)
+
+### Sales Enablement Platform
+The floor toolkit: call scripts, fact-find, objection handling, battle cards, pitch-and-price,
+and AI call scoring — everything a rep needs in the conversation.
+**Solves:** slow rep ramp and inconsistent execution — standardises what good looks like and shortens time-to-productive.
+[Live → livesalestool-d2ms.netlify.app](https://livesalestool-d2ms.netlify.app)
+
+### ben-lynch.com
+My operator portfolio, with a live voice demo of BOB and the full story of what I have built and shipped.
+[Live → ben-lynch.com](https://ben-lynch.com)
+
+### Learn Thai
+A language-learning app — spaced practice and conversational drills. Built to show range beyond sales tooling.
+[Live → tlc-language-app.netlify.app](https://tlc-language-app.netlify.app)
+
+## How I build
+Claude · MCP · Next.js · Tailwind · Supabase · Stripe · Cal.com · Netlify
 
 ## Contact
 - [Book a call](https://ben-lynch.com/contact)
-- ben@ben-lynch.com
-- [LinkedIn](https://www.linkedin.com/in/benlynchapac)
-
----
-*Last updated 2026-05-28*
-
+- [ben-lynch.com](https://ben-lynch.com)
