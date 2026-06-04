@@ -1,6 +1,6 @@
 # Ben Lynch
 
-> Sales operations leader. I use AI and build SaaS systems to optimise sales output and revenue.
+> Senior sales leader who builds the AI and systems that run a commercial floor.
 
 I have spent 15 years running commercial sales floors across APAC. These days I build the
 tooling that runs them: AI operators, live performance dashboards, and rep-enablement
